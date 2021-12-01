@@ -11,6 +11,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
+    overflow:scroll;
     width: 100%;
     z-index: -1;
     font-weight: 400;
@@ -36,6 +37,8 @@ form {
     border-style: inset;
     width: 50%;
     justify-content: center;
+    margin-left: 25%;
+    overflow: scroll;
     
 }
 
