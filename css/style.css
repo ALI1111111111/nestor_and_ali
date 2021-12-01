@@ -12,8 +12,7 @@ body {
     left: 0;
     height: 100%;
     overflow:scroll;
-    
-    
+  
 }
 
 .title {
@@ -48,7 +47,7 @@ input {
     text-align: start;
     cursor: text;
     margin-bottom: 20px;
-    padding 10px;
+    /* padding :10px; */
     border-style: inset;
     font-family: inherit;
     font-size: inherit;
